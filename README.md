@@ -1,4 +1,4 @@
-# Google ADK for Beginners - DataCamp Tutorial
+
 
 🚀 **Welcome to the comprehensive journey through Google Agent Development Kit (ADK)!**
 
